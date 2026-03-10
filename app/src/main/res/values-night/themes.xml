@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--темный стиль для проекта-->
+    <!--    <style name="AppTheme.Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Цвет фона для основного содержимого -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <!-- Цветовая палитра -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Цвет текста и фона для AppBar (Toolbar) -->
+        <!--        <item name="android:textColorPrimary">@color/textPrimary</item>-->
+        <!--        <item name="android:background">@color/toolbarBackground</item>-->
+        <!-- Цвет статус-бара (верхнего бара) -->
+        <item name="android:statusBarColor">@color/windowBackground</item>
+        <!-- Цветовой акцент кнопки навигации (для API 21+) -->
+        <item name="android:navigationBarColor">@color/windowBackground</item>
+        <!-- Цвет разделителя в списках и т.д. -->
+        <!--        <item name="android:divider">@color/dividerColor</item>-->
+        <!-- Цвет фона для элементов списка -->
+        <!--        <item name="android:listViewStyle">@style/MyListViewStyle</item>-->
+        <!-- Стиль для кнопок -->
+        <!--        <item name="android:buttonStyle">@style/MyButtonStyle</item>-->
+        <!-- Стиль для текстовых полей (EditText) -->
+        <!--        <item name="android:editTextStyle">@style/MyEditTextStyle</item>-->
+    </style>
+
+    <!-- Вы также можете определить стили для настраиваемых виджетов -->
+    <!--    <style name="MyListViewStyle" parent="Widget.AppCompat.ListView">-->
+    <!--        <item name="android:listDivider">@drawable/dividerDrawable</item>-->
+    <!--        <item name="android:listDividerHeight">1dp</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">-->
+    <!--        <item name="android:background">@drawable/buttonBackgroundDrawable</item>-->
+    <!--        <item name="android:textColor">@color/buttonTextColor</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="MyEditTextStyle" parent="Widget.AppCompat.EditText">-->
+    <!--        <item name="android:textColor">@color/editTextColor</item>-->
+    <!--        <item name="android:background">@drawable/editTextBackgroundDrawable</item>-->
+    <!--    </style>-->
+
+    <!--стиль для клавиатуры-->
+    <style name="MyFontStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/bebas_neue</item>
+    </style>
+
+</resources>

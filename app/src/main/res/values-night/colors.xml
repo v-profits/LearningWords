@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    <color name="red">#FF0000</color>-->
+    <!--    <color name="red_dark">#640000</color>-->
+    <!--    <color name="green">#00FF00</color>-->
+    <!--    <color name="green_dark">#006400</color>-->
+    <!--    <color name="blue">#0000FF</color>-->
+    <!--    <color name="blue_dark">#000064</color>-->
+    <color name="grey">#9E9E9E</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="breeze">#00FFFF</color>
+    <color name="purple">#FF00FF</color>
+
+    <color name="button_red">#C80000</color>
+    <color name="button_blue">#6400C8</color>
+    <color name="button_green">#009E00</color>
+
+
+    <!--    <color name="blue_light">#7F7FFF</color>-->
+    <!--    <color name="red_light">#FF7F7F</color>-->
+    <!--    <color name="green_light">#7FFF7F</color>-->
+    <!--    <color name="my_light">#1D9797</color>-->
+    <color name="transparent">#00262F37</color>
+
+
+    <color name="windowBackground">#262F37</color>
+    <!--    <color name="windowBackground">#1E3232</color>-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#34495e</color>
+    <color name="colorAccent">#34495e</color>
+
+    <color name="text_color">@color/white</color>
+    <color name="title_text_color">@color/white</color>
+    <color name="title_background_color">#262F37</color>
+    <!--    <color name="title_background_color">#2F3F4C</color>-->
+    <color name="item_background_color">#333B42</color>
+
+</resources>

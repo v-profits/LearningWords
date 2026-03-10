@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/item1"-->
+<!--            android:title="Темная тема"-->
+<!--            android:tooltipText="@string/long_title_item2"/>-->
+<!--        <item-->
+<!--            android:id="@+id/item2"-->
+<!--            android:icon="@drawable/eye_24px"-->
+<!--            android:title="@string/item1"-->
+<!--            android:tooltipText="@string/long_title_item2" />-->
+<!--        <item-->
+<!--            android:id="@+id/item3"-->
+<!--            android:icon="@drawable/speak_24"-->
+<!--            android:title="Показать слова"-->
+<!--            android:tooltipText="@string/long_title_item2"/>-->
+<!--        <item-->
+<!--            android:id="@+id/item4"-->
+<!--            android:title="Перемешать слова"-->
+<!--            android:tooltipText="@string/long_title_item2"/>-->
+<!--    </group>-->
+</menu>

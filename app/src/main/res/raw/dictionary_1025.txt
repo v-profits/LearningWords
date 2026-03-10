@@ -1,0 +1,1025 @@
+adult	взрослый
+age	возраст
+baby	малыш
+birth	рождение
+boy	мальчик
+child	ребенок
+childhood	детство
+girl	девочка
+human	человек
+kid	ребенок
+life	жизнь
+maiden name	девичья фамилия
+man	мужчина
+name	имя
+people	люди
+person	человек
+personality	личность
+surname	фамилия
+teenager	подросток
+woman	женщина
+youth	молодежь, молодость
+he	он
+her	ее
+him	его (объектн.)
+his	его (притяжат.)
+I	я
+it	оно
+my	мой
+our	наш
+she	она
+their	их (притяжат.)
+them	их (объектн.)
+they	они
+we	мы
+arm	рука
+back	спина
+belly	живот
+blood	кровь
+body	тело
+bone	кость
+brain	мозг
+cheek	щека
+chest	грудь
+chin	подбородок
+ear	ухо
+elbow	локоть
+eye	глаз
+eyebrow	бровь
+eyelash	ресница
+face	лицо
+finger	палец
+fist	кулак
+foot	ступня
+forehead	лоб
+hair	волосы
+hand	кисть руки
+heart	сердце
+heel	пятка
+hip	бедро
+jaw	челюсть
+kidney	почка
+knee	колено
+leg	нога
+lips	губы
+little finger	мизинец
+liver	печень
+lung	легкое
+mouth	рот
+muscle	мышца
+nail	ноготь
+neck	шея
+nerve	нерв
+nose	нос
+palm	ладонь
+rib	ребро
+ring finger	безымянный палец
+skeleton	скелет
+skin	кожа
+skull	череп
+stomach	желудок
+throat	горло
+thumb	большой палец
+toe	палец на ноге
+tongue	язык
+tooth	зуб
+wrist	запястье
+to be	быть
+to breathe	дышать
+to hear	слышать
+to hold	держать
+to lie	лежать
+to look	смотреть
+to see	видеть
+to sit	сидеть
+to speak	говорить
+to touch	трогать
+to walk	ходить
+attractive	привлекательный
+bald	лысый
+beard	борода
+beautiful	красивый
+beauty	красота
+blond	белокурый
+bushy	густой (брови, борода)
+common	обычный
+curly	кудрявый
+cute	милый
+dark	темный
+fair	белокурый
+fat	толстый
+figure	фигура
+flush	румянец
+freckles	веснушки
+ginger	рыжий
+haircut	прическа, стрижка
+height	рост
+hooked	крючковатый (про нос)
+moustache	усы
+oval	овальный
+pale	бледный
+plump	пухлый
+round	круглый
+short	короткий
+slim	тонкий, стройный
+square	квадратный
+straight	прямой
+tall	высокий
+thin	худой
+ugly	уродливый
+wavy	волнистый
+weight	вес
+active	активный
+angry	злой
+blue	грустный
+boring	скучный
+brave	храбрый
+calm	спокойный
+careful	осторожный
+character	характер
+cheerful	радостный
+clever	умный
+confused	сбитый с толку
+creative	креативный, творческий
+cruel	жестокий
+curious	любопытный
+easy-going	легкий на подъем
+emotional	эмоциональный
+excited	взволнованный
+fair	честный
+friendly	дружелюбный
+generous	щедрый
+genius	гениальный
+gentle	мягкий
+glad	довольный
+greedy	жадный
+happy	счастливый
+hard-working	трудолюбивый
+honest	честный
+intelligent	умный
+jealous	ревнивый, завистливый
+kind	добрый
+lazy	ленивый
+loyal	верный
+lucky	удачливый
+moody	хмурый
+nervous	нервный
+open	открытый
+optimistic	оптимистичный
+patient	терпеливый
+proud	гордый
+quiet	тихий
+reliable	надежный
+romantic	романтичный
+rude	грубый
+sad	грустный
+shy	стеснительный
+sensitive	чувствительный
+serious	серьезный
+stupid	глупый
+talented	талантливый
+tough	жесткий
+upset	расстроенный
+wise	мудрый
+witty	остроумный
+to act	вести себя
+to behave	вести себя
+to tell	рассказывать
+to try	стараться
+adoption	усыновление
+aunt	тетя
+boyfriend	парень (друг)
+bride	невеста
+brother	брат
+brother-in-law	шурин, деверь
+cousin	двоюродный брат (сестра)
+daughter	дочь
+daughter-in-law	сноха, невестка
+divorce	развод
+engagement	помолвка
+ex-husband	бывший муж
+ex-wife	бывшая жена
+family	семья
+father	отец
+foster family	приемная семья
+friend	друг
+girlfriend	девушка (подруга)
+godfather	крестный отец
+godmother	крестная мать
+grandchildren	внуки
+granddaughter	внучка
+grandfather	дедушка
+grandmother	бабушка
+grandparents	бабушка и дедушка
+grandson	внук
+half-brother	сводный брат
+half-sister	сводная сестра
+husband	муж
+lover	любовник (-ца)
+marriage	брак
+mother	мать
+mother-in-law	теща, свекровь
+nephew	племянник
+niece	племянница
+parents	родители
+relative	родственник
+sister	сестра
+son	сын
+stepbrother	сводный брат
+stepfather	отчим
+stepmother	мачеха
+stepsister	сводная сестра
+twins	близнецы
+uncle	дядя
+wedding	свадьба
+widow	вдова
+widower	вдовец
+wife	жена
+to care	заботиться
+to love	любить
+to miss	скучать
+to support	поддерживать
+belt	ремень
+blouse	блузка
+boots	ботинки
+bracelet	браслет
+cap	кепка
+chain	цепочка
+cloak	плащ
+clothes	одежда
+coat	пальто
+dress	платье
+earrings	серьги
+formal clothes	официальная одежда
+hat	шляпа
+high boots	сапоги
+high heels	высокие каблуки
+hoodie	худи, толстовка
+jacket	пиджак
+jeans	джинсы
+necklace	ожерелье
+pocket	карман
+pyjamas	пижама
+raincoat	плащ-дождевик
+ring	кольцо
+shirt	рубашка
+shoes	туфли
+shorts	шорты
+skirt	юбка
+slippers	тапочки
+socks	носки
+sportswear	спортивный костюм
+suit	костюм
+sweater	свитер
+swimwear	купальный костюм
+trainers	кроссовки
+T-shirt	футболка
+umbrella	зонт
+underwear	нижнее белье
+uniform	униформа
+zip	застежка-молния
+to dress up	наряжаться
+to try on	примерить
+to wear	носить
+to zip up	застегнуть
+apple	яблоко
+bacon	бекон
+banana	банан
+beef	говядина
+berries	ягоды
+biscuits	печенье
+breakfast	завтрак
+butter	масло
+carrot	морковь
+cereal	хлопья
+chicken	курица
+coffee	кофе
+corn	кукуруза
+cucumber	огурец
+dinner	ужин
+drinks	напитки
+duck	утка
+aubergine	баклажан
+fish	рыба
+fruits	фрукты
+garlic	чеснок
+grapes	виноград
+ham	ветчина
+jam	варенье
+juice	сок
+lemon	лимон
+lettuce	салат-латук
+lunch	обед
+milk	молоко
+mineral water	минеральная вода
+mushroom	гриб
+nuts	орехи
+onion	лук
+pancake	блинчик
+peach	персик
+pepper	перец
+pineapple	ананас
+plum	слива
+pork	свинина
+potato	картофель
+salmon	лосось
+sandwich	сэндвич
+sausage	колбаса
+shrimp	креветка
+snack	перекус
+soda	газировка
+strawberry	клубника
+taste	вкус
+tea	чай
+toast	тост
+tomato	помидор
+turkey	индейка
+vegetables	овощи
+water	вода
+watermelon	арбуз
+yoghurt	йогурт
+to bake	печь
+to boil	кипеть, варить
+to cook	готовить
+to cool	охлаждать
+to cut	резать
+to drink	пить
+to eat	есть
+to fry	жарить
+to heat	подогревать
+to stew	тушить
+to taste	пробовать
+actor	актер
+artist	художник
+break	перерыв
+career	карьера
+company	компания
+cook	повар
+designer	дизайнер
+director	директор
+doctor	врач
+engineer	инженер
+fireman	пожарный
+housewife	домохозяйка
+interview	собеседование
+job	работа
+journalist	журналист
+lawyer	юрист
+meeting	встреча
+money	деньги
+musician	музыкант
+office	офис
+photographer	фотограф
+policeman	полицейский
+professional	профессионал
+programmer	программист
+pupil	ученик
+salary	зарплата
+scientist	ученый
+singer	певец
+sportsman	спортсмен
+skill	навык
+student	студент
+task	задача
+teacher	учитель
+to earn	зарабатывать
+to learn	учить что-либо
+to manage	управлять
+to order	заказывать
+to organise	организовывать
+to study	учить(ся)
+to teach	учить, преподавать
+to work	работать
+apartment	квартира
+basement	подвал
+ceiling	потолок
+floor	пол (этаж)
+home	дом (место)
+house	дом (здание)
+neighbour	сосед
+roof	крыша
+stairs	лестница
+wall	стена
+yard	двор
+armchair	кресло
+bookcase	книжный шкаф
+carpet	ковер
+coffee table	кофейный столик
+computer	компьютер
+curtains	шторы
+desk	рабочий стол
+lamp	лампа
+laptop	ноутбук
+living room	гостиная
+painting	картина
+picture frame	рамка для фотографий
+sofa	диван
+TV	телевизор
+bath	ванна
+bathrobe	банный халат
+bathroom	ванная комната
+bubbles	пузырьки
+mirror	зеркало
+razor	бритва
+shampoo	шампунь
+shower	душ
+soap	мыло
+sponge	губка
+toilet	унитаз
+toothbrush	зубная щетка
+toothpaste	зубная паста
+towel	полотенце
+alarm clock	будильник
+bed	кровать
+bedroom	спальня
+blanket	одеяло
+closet	платяной шкаф
+hairbrush	расческа
+hanger	вешалка
+light switch	выключатель света
+phone	телефон
+pillow	подушка
+sheet	простыня
+bowl	миска
+chair	стул
+cooker	плита
+cup	чашка
+fork	вилка
+freezer	морозильная камера
+fridge	холодильник
+glass	бокал
+kettle	чайник
+kitchen	кухня
+knife	нож
+mug	кружка
+plate	тарелка
+spoon	ложка
+table	стол
+to brush teeth	чистить зубы
+to clean	чистить
+to dry	сушить
+to live	жить
+to sleep	спать
+to take a bath	принимать ванну
+to wash	мыть
+basketball	баскетбол
+billiards	бильярд
+book	книга
+bowling	боулинг
+dance	танец
+cards	карты
+chess	шахматы
+cinema	кино
+circus	цирк
+collecting	коллекционирование
+comics	комиксы
+computer games	компьютерные игры
+crosswords	кроссворды
+diving	дайвинг
+drawing	рисование
+fishing	рыбалка
+fitness	фитнес
+football	футбол
+hockey	хоккей
+hunt	охота
+knitting	вязание
+model	модель
+music	музыка
+photo	фотография
+poetry	поэзия
+reading	чтение
+running	бег
+sculpture	скульптура
+shopping	шопинг
+singing	пение
+skiing	катание на лыжах
+swimming	плавание
+tennis	теннис
+theatre	театр
+volleyball	волейбол
+yoga	йога
+to dance	танцевать
+to do cycling	кататься на велосипеде
+to do gardening	заниматься садоводством
+to draw	рисовать
+to go mushrooming	собирать грибы
+to play the guitar	играть на гитаре
+to play the piano	играть на пианино
+to read	читать
+to run	бегать
+to sing	петь
+to swim	плавать
+agency	агентство
+airlines	авиалинии
+airport	аэропорт
+attractions	достопримечательности
+backpack	рюкзак
+bag	сумка
+baggage	багаж
+beach	пляж
+bicycle	велосипед
+bonfire	костер
+border	граница
+bronzed	загорелый
+bus	автобус
+camp	лагерь
+capital	столица
+car	машина
+city	город
+country	страна
+cruise	круиз
+currency	валюта
+direction	направление
+east	восток
+exotic	экзотический
+foreign	иностранный
+foreigner	иностранец
+hike	поход
+hotel	отель, гостиница
+journey	путешествие
+local	местный
+map	карта
+motorcycle	мотоцикл
+mountain	гора
+north	север
+passport	паспорт
+plane	самолет
+postcard	открытка
+railway	железная дорога
+rest	отдых
+room	номер, комната
+route	маршрут
+ship	корабль
+south	юг
+souvenir	сувенир
+suitcase	чемодан
+taxi	такси
+tent	палатка
+ticket	билет
+tourism	туризм
+train	поезд
+trip	поездка
+vacation	отпуск, каникулы
+visa	виза
+west	запад
+to arrive	прибыть
+to book	забронировать
+to buy	купить
+to change to	пересаживаться на
+to get a suntan	загорать
+to go abroad	отправляться за границу
+to land	приземляться
+to rest	отдыхать
+black	черный
+blue	синий
+brown	коричневый
+colour	цвет
+dark blue	темно-синий
+gold	золотистый
+green	зеленый
+grey	серый
+light blue	голубой
+orange	оранжевый
+pink	розовый
+red	красный
+shade	оттенок
+silver	серебристый
+violet	фиолетовый
+white	белый
+yellow	желтый
+to paint	красить
+bad	плохой
+big	большой
+circle	круг
+cool	прохладный
+far	далекий
+fast	быстрый
+fluffy	пушистый
+good	хороший
+hard	жесткий, твердый
+heavy	тяжелый
+high	высокий
+hot	горячий
+large	крупный
+length	длина
+light	легкий
+line	линия
+long	длинный
+loud	громкий
+low	низкий
+new	новый
+old	старый
+quick	быстрый
+round	круглый
+shape	форма
+sharp	острый
+short	короткий
+size	размер
+slow	медленный
+small	маленький
+smooth	гладкий
+soft	мягкий
+speed	скорость
+square	квадрат, квадратный
+warm	теплый
+weight	вес
+afternoon	день, время после полудня
+century	век
+date	дата
+day	день
+decade	десятилетие
+evening	вечер
+hour	час
+midnight	полночь
+minute	минута
+month	месяц
+morning	утро
+night	ночь
+second	секунда
+time	время
+week	неделя
+weekdays	будни
+weekend	выходные
+year	год
+Monday	понедельник
+Tuesday	вторник
+Wednesday	среда
+Thursday	четверг
+Friday	пятница
+Saturday	суббота
+Sunday	воскресенье
+winter	зима
+spring	весна
+summer	лето
+autumn	осень
+January	январь
+February	февраль
+March	март
+April	апрель
+May	май
+June	июнь
+July	июль
+August	август
+September	сентябрь
+October	октябрь
+November	ноябрь
+December	декабрь
+one	один
+two	два
+three	три
+four	четыре
+five	пять
+six	шесть
+seven	семь
+eight	восемь
+nine	девять
+ten	десять
+eleven	одиннадцать
+twelve	двенадцать
+thirteen	тринадцать
+fourteen	четырнадцать
+fifteen	пятнадцать
+sixteen	шестнадцать
+seventeen	семнадцать
+eighteen	восемнадцать
+nineteen	девятнадцать
+twenty	двадцать
+twenty-one	двадцать один
+twenty-two	двадцать два
+twenty-three	двадцать три
+twenty-four	двадцать четыре
+twenty-five	двадцать пять
+twenty-six	двадцать шесть
+twenty-seven	двадцать семь
+twenty-eight	двадцать восемь
+twenty-nine	двадцать девять
+thirty	тридцать
+forty	сорок
+fifty	пятьдесят
+sixty	шестьдесят
+seventy	семьдесят
+eighty	восемьдесят
+ninety	девяносто
+hundred	сто
+thousand	тысяча
+million	миллион
+billion	миллиард
+first	первый
+second	второй
+third	третий
+fourth	четвертый
+fifth	пятый
+sixth	шестой
+seventh	седьмой
+eighth	восьмой
+ninth	девятый
+tenth	десятый
+eleventh	одиннадцатый
+twelfth	двенадцатый
+thirteenth	тринадцатый
+fourteenth	четырнадцатый
+fifteenth	пятнадцатый
+sixteenth	шестнадцатый
+seventeenth	семнадцатый
+eighteenth	восемнадцатый
+nineteenth	девятнадцатый
+twentieth	двадцатый
+twenty-first	двадцать первый
+twenty-second	двадцать второй
+twenty-third	двадцать третий
+twenty-fourth	двадцать четвертый
+twenty-fifth	двадцать пятый
+twenty-sixth	двадцать шестой
+twenty-seventh	двадцать седьмой
+twenty-eighth	двадцать восьмой
+twenty-ninth	двадцать девятый
+thirtieth	тридцатый
+fortieth	сороковой
+fiftieth	пятидесятый
+sixtieth	шестидесятый
+seventieth	семидесятый
+eightieth	восьмидесятый
+ninetieth	девяностый
+hundredth	сотый
+thousandth	тысячный
+millionth	миллионный
+billionth	миллиардный
+air	воздух
+blizzard	метель
+chilly	прохладный
+clear	чистый
+cloud	облако
+cloudy	облачный
+cold	холод, холодный
+fog	туман
+foggy	туманный
+frosty	морозный
+hot	жаркий
+ice	лед
+icy	ледяной
+lightning	молния
+moon	луна
+mud	грязь
+puddle	лужа
+rain	дождь
+rainbow	радуга
+rainy	дождливый
+sky	небо
+snow	снег
+snowfall	снегопад
+snowflake	снежинка
+snowy	снежный
+star	звезда
+starry	звездный
+sun	солнце
+sunlight	солнечный свет
+sunny	солнечный
+sunrise	рассвет
+sunset	закат
+thunder	гром
+thunderstorm	гроза
+weather	погода
+wind	ветер
+windy	ветреный
+to beat	стучать
+to blow	дуть
+to cover up	покрывать
+to darken	темнеть
+to drip	капать
+to fall	падать
+to lighten	светлеть
+to melt	таять
+cave	пещера
+cliff	скала
+desert	пустыня
+dust	пыль
+field	поле
+forest	лес
+ground	земля
+hill	холм
+island	остров
+jungle	джунгли
+lake	озеро
+mountain	гора
+nature	природа
+ocean	океан
+pond	пруд
+river	река
+sand	песок
+sea	море
+stone	камень
+stream	ручей
+swamp	болото
+wave	волна
+animal	животное
+beak	клюв
+claw	коготь
+feather	перо
+fur	шерсть
+bull	бык
+cat	кошка
+chicken	курица
+cow	корова
+dog	собака
+donkey	осел
+goat	коза
+goose	гусь
+guinea pig	морская свинка
+hamster	хомяк
+horse	лошадь
+kitten	котенок
+mouse	мышь
+parrot	попугай
+pet	питомец
+pig	свинья
+puppy	щенок
+rabbit	кролик
+rat	крыса
+sheep	овца
+bear	медведь
+camel	верблюд
+crocodile	крокодил
+deer	олень
+elephant	слон
+fox	лиса
+giraffe	жираф
+hippo	бегемот
+kangaroo	кенгуру
+lion	лев
+monkey	обезьяна
+panda	панда
+rhino	носорог
+snake	змея
+tiger	тигр
+wild	дикий
+wolf	волк
+bee	пчела
+bug	жук
+butterfly	бабочка
+fly	муха
+insect	насекомое
+spider	паук
+bird	птица
+duck	утка
+eagle	орел
+owl	сова
+penguin	пингвин
+pigeon	голубь
+raven	ворон
+sparrow	воробей
+swan	лебедь
+to bark	лаять
+to bite	кусать
+to catch	ловить
+to feed	кормить
+to fly	летать
+to hiss	шипеть
+to pet	гладить
+to purr	мурлыкать
+to scream	кричать
+bush	куст
+cactus	кактус
+flower	цветок
+grass	трава
+leaf	лист
+lily	лилия
+oak	дуб
+pine	сосна
+root	корень
+rose	роза
+tree	дерево
+to bloom	цвести
+to fruit	плодоносить
+to grow	расти
+to plant	сажать
+to water	поливать
+Christmas	Рождество
+coloured lights	цветные фонарики (гирлянды)
+decorations	украшения
+guest	гость
+holiday	праздник
+New Year	Новый год
+New Year’s tree	новогодняя елка
+present	подарок
+snowman	снеговик
+treat	угощение
+balloon	воздушный шар
+birthday	день рождения
+cake	торт
+candle	свеча
+party	вечеринка
+wish	желание
+to be born	родиться
+to celebrate	праздновать
+to congratulate	поздравлять
+to enjoy	наслаждаться
+to get older	становиться старше
+to have fun	развлекаться
+to invite	пригласить
+to like	нравиться
+to make a wish	загадать желание
+to prepare	готовиться
+to visit	навещать
+bakery	булочная, пекарня
+bank	банк
+bench	скамья
+bookshop	книжный магазин
+bridge	мост
+building	здание
+cafe	кафе
+car park	парковка
+cathedral	собор
+cheap	дешевый
+church	церковь
+coin	монета
+corner	угол
+crossroads	перекресток
+customer	покупатель
+dead end	тупик
+expensive	дорогой
+fountain	фонтан
+hospital	больница
+left	налево
+library	библиотека
+lift	лифт
+mall	торговый центр
+market	рынок
+monument	памятник
+museum	музей
+nightclub	ночной клуб
+park	парк
+price	цена
+public transport	общественный транспорт
+receipt	чек
+restaurant	ресторан
+right	направо
+road	дорога
+sale	распродажа
+school	школа
+shop	магазин
+square	площадь
+stadium	стадион
+station	станция
+stop	остановка
+street	улица
+subway	подземный переход, метро
+supermarket	супермаркет
+university	университет
+view	вид
+way	путь
+zoo	зоопарк
+to cost	стоить
+to cross	пересекать, переходить
+to find	находить
+to go	идти
+to go sightseeing	осматривать достопримечательности
+to pay	платить
+to sell	продавать
+to stop	остановиться
+and	и
+as	как
+because	потому что
+but	но
+if	если
+how	как
+or	или
+than	чем
+that	который
+what	что
+when	когда
+where	где
+which	который
+who	кто
+whom	кому
+whose	чей
+yet	однако
+above	над
+at	у, в, на
+behind	за
+below	ниже
+between	между
+by	у
+in	в
+on	на
+under	под
+after	после
+at	в
+before	до
+by	к
+during	во время
+in	в, через
+on	в
+since	с тех пор, как
+until	пока
+because of	из-за
+for	для, за, из-за
+from	от
+of	из-за, от, по
+thanks to	благодаря
+through	благодаря, из-за
+across	через
+along	вдоль
+from	от
+into	в
+out	из
+to	к, в, на

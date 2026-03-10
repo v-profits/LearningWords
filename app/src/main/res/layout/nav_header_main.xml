@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="16dp">
+    <!--    android:background="?attr/colorPrimaryDark">-->
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="16dp"
+        android:paddingTop="0dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="0dp"
+        android:background="@color/title_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_settings_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="0dp"
+            android:paddingBottom="0dp"
+            android:text="Настройки"
+            android:textSize="18sp"
+            android:textColor="@color/white" />
+        <!--        android:clickable="false"-->
+        <!--        android:focusable="false"/>-->
+        <!--    android:textAppearance="@style/TextAppearance.AppCompat.Body1"-->
+        <!--    android:textColor="@color/colorAccent"-->
+        <!--    android:textStyle="bold"-->
+
+    </LinearLayout>
+
+    <!--  2  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingTop="24dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_grade_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="18dp"
+            android:paddingBottom="16dp"
+            android:text="Уровни"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_2"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_2"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_2"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_2"
+        android:tooltipText="@string/long_title_item_2" />
+
+    <!--  3  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_2">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_record_voice_over_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Голоса"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_3"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_3"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_3"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_3"
+        android:tooltipText="@string/long_title_item_3" />
+
+    <!--  4  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_3">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_done_all_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Показать"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_4"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_4"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_4"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_4"
+        android:tooltipText="@string/long_title_item_4" />
+
+    <!--  5  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_4">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_remove_done_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Пропустить"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_5"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_5"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_5"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_5"
+        android:tooltipText="@string/long_title_item_5" />
+
+    <!--  6  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_5">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_layers_clear_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Скрыть"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_6"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_6"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_6"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_6"
+        android:tooltipText="@string/long_title_item_6" />
+
+    <!--  7  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_6">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_shuffle_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Перемешать"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_7"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_7"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_7"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_7"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_7"
+        android:tooltipText="@string/long_title_item_7" />
+
+    <!--  8  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_7">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_subject_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Статистика"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_8"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_8"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_8"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_8"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_8"
+        android:tooltipText="@string/long_title_item_8" />
+
+    <!--  9  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_8">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_rule_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Индикаторы"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_9"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_9"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_9"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_9"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_9"
+        android:tooltipText="@string/long_title_item_9" />
+
+    <!--  10  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_9">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_volume_up_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Громкость"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_10"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_10"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_10"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_10"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_10"
+        android:tooltipText="@string/long_title_item_10" />
+    <!--    android:background="?attr/selectableItemBackground"-->
+
+    <!--  11  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_10">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_border_style_24" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="clip_vertical"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:text="Темная тема"
+            android:textSize="16sp"
+            android:textColor="@color/text_color" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_11"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout_11"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_11"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_11"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_11"
+        android:tooltipText="@string/long_title_item_11" />
+
+    <!--  12  -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout_12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@color/item_background_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout_11">
+
+        <ImageView
+            android:id="@+id/imageViewHeaderIcon_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/outline_auto_stories_24"
+            android:paddingTop="16dp"
+            android:paddingBottom="100dp" />
+
+        <TextView
+            android:id="@+id/tvNavHeader_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:paddingStart="32dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="100dp"
+            android:text="Инструкция"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_12"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout_12"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout_12"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_12"
+        android:tooltipText="@string/long_title_item_12" />
+    <!--    android:background="?attr/selectableItemBackground"-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

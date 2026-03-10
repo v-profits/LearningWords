@@ -1,0 +1,66 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--светлый стиль для проекта-->
+    <!--    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">-->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--        <item name="android:actionBarItemBackground">@color/red</item>-->
+
+
+        <!-- Цвет фона для основного содержимого -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- Цветовая палитра -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Цвет текста и фона для AppBar (Toolbar) -->
+        <!--        <item name="android:textColorPrimary">@color/textPrimary</item>-->
+        <!--        <item name="android:background">@color/toolbarBackground</item>-->
+        <!-- Цвет статус-бара (верхнего бара) -->
+        <item name="android:statusBarColor">@color/title_background_color</item>
+        <!-- Цветовой акцент кнопки навигации (для API 21+) -->
+        <item name="android:navigationBarColor">@color/title_background_color</item>
+        <!-- Цвет разделителя в списках и т.д. -->
+        <!--        <item name="android:divider">@color/dividerColor</item>-->
+        <!-- Цвет фона для элементов списка -->
+        <!--        <item name="android:listViewStyle">@style/MyListViewStyle</item>-->
+        <!-- Стиль для кнопок -->
+        <!--        <item name="android:buttonStyle">@style/MyButtonStyle</item>-->
+        <!-- Стиль для текстовых полей (EditText) -->
+        <!--        <item name="android:editTextStyle">@style/MyEditTextStyle</item>-->
+    </style>
+
+    <!-- Вы также можете определить стили для настраиваемых виджетов -->
+    <!--    <style name="MyListViewStyle" parent="Widget.AppCompat.ListView">-->
+    <!--        <item name="android:listDivider">@drawable/dividerDrawable</item>-->
+    <!--        <item name="android:listDividerHeight">1dp</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">-->
+    <!--        <item name="android:background">@drawable/buttonBackgroundDrawable</item>-->
+    <!--        <item name="android:textColor">@color/buttonTextColor</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="MyEditTextStyle" parent="Widget.AppCompat.EditText">-->
+    <!--        <item name="android:textColor">@color/editTextColor</item>-->
+    <!--        <item name="android:background">@drawable/editTextBackgroundDrawable</item>-->
+    <!--    </style>-->
+
+    <!--стиль для клавиатуры-->
+    <style name="MyFontStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/bebas_neue</item>
+    </style>
+
+    <!--стиль для диалогового всплывающего окна-->
+    <style name="YourAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="buttonBarPositiveButtonStyle">@style/YourButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">@style/YourButtonStyle</item>
+        <item name="buttonBarNeutralButtonStyle">@style/YourButtonStyle</item>
+    </style>
+
+    <style name="YourButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">14sp</item> <!-- Замените 18sp на желаемый размер шрифта -->
+    </style>
+
+</resources>

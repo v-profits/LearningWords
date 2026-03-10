@@ -1,0 +1,100 @@
+﻿I	Я
+We	Мы
+You	Ты, вы
+He	Он
+She	Она
+It	Оно (о неодуш. предметах)
+They	Они
+Come	Приходить
+Do	Делать
+Drink	Пить
+Eat	Есть
+Give	Давать
+Go	Идти
+Have	Иметь
+Hear	Слышать
+Help	Помогать
+Like	Нравиться
+Live	Жить
+Put	Класть, положить
+Say	Сказать
+See	Видеть
+Sit	Сидеть
+Sleep	Спать
+Stand	Стоять
+Take	Брать
+Use	Пользоваться, использовать
+Want	Хотеть
+Work	Работать
+Boy	Мальчик
+Friend	Друг
+Girl	Девочка
+Man	Мужчина, человек
+People	Люди
+Woman	Женщина
+Country	Страна, сельская местность
+Home	Дом (жилище)
+Park	Парк
+Place	Место
+River	Река
+School	Школа
+Street	Улица
+Town	Город
+Bread	Хлеб
+Breakfast	Завтрак
+Dinner	Обед
+Fish	Рыба
+Food	Еда
+Juice	Сок
+Meat	Мясо
+Milk	Молоко
+Tea	Чай
+Water	Вода
+Afternoon	День (время после полудня)
+Day	День
+Evening	Вечер
+Month	Месяц
+Morning	Утро
+Night	Ночь
+Week	Неделя
+Year	Год
+Daughter	Дочь
+Family	Семья
+Father	Отец
+Mother	Мать
+Son	Сын
+Box	Коробка, ящик
+Bus	Автобус
+Car	Машина
+Clothes	Одежда
+Cup	Чашка
+Money	Деньги
+Name	Имя
+Pen	Ручка
+Rain	Дождь
+Thing	Вещь, предмет
+Bad	Плохой
+Beautiful	Красивый
+Big	Большой
+Cold	Холодный
+Every	Каждый
+Good	Хороший
+Long	Длинный
+New	Новый
+Old	Старый
+Short	Короткий
+Small	Маленький
+Warm	Теплый
+Black	Черный
+Blue	Синий
+Brown	Коричневый
+Green	Зеленый
+Red	Красный
+Yellow	Желтый
+Never	Никогда
+Now	Сейчас
+Often	Часто
+Today	Сегодня
+Tomorrow	Завтра
+Usually	Обычно
+Yesterday	Вчера
